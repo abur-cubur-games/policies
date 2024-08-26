@@ -1,6 +1,6 @@
-*Privacy Policy**
+**Privacy Policy**
 
-This privacy policy is applicable to the Jelly Apocalypse app (hereinafter referred to as "Application") for mobile devices, which was developed by Mert Kalkancı (hereinafter referred to as "Service Provider") as a a Commercial service. This service is provided "AS IS".
+This privacy policy is applicable to the Project Jelly app (hereinafter referred to as "Application") for mobile devices, which was developed by Mert Kalkancı (hereinafter referred to as "Service Provider") as a a Commercial service. This service is provided "AS IS".
 
 **What information does the Application obtain and how is it used?**  
 **User Provided Information**
@@ -30,9 +30,9 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [Anzu](https://www.anzu.io/privacy-policy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -62,7 +62,7 @@ The Service Provider are concerned about safeguarding the confidentiality of you
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-08-25
+This privacy policy is effective as of 2024-08-26
 
 **Your Consent**
 
